@@ -17,8 +17,5 @@ class Clients extends Controller
         //
     }
 
-    public function index()
-    {
-       // return Shop::all();
-    }
+    
 }
